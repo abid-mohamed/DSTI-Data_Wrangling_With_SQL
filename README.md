@@ -1,2 +1,1 @@
-# DSTI-Data_Wrangling_With_SQL
- 
+# Data Wrangling With SQL
