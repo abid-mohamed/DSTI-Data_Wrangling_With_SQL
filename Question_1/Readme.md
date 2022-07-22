@@ -2,7 +2,7 @@
 Using the database WideWorldImporters, write a SQL query which reports the consistency between orders and their attached invoices. 
 The resultset should report for each (CustomerID, CustomerName) 
 
-a. the total number of orders: TotalNBOrders.
+a. the total number of orders: TotalNBOrders.<br />
 b. the number of invoices converted from an order: TotalNBInvoices 
 c. the total value of orders: OrdersTotalValue 
 d. the total value of invoices: InvoicesTotalValue 
