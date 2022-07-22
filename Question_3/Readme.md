@@ -1,5 +1,5 @@
 
-## Question 3:
+## Question 3 :
 Using the database WideWorldImporters, write a T-SQL stored procedure called ReportCustomerTurnover. <br />
 This procedure takes two parameters: Choice and Year, both integers. 
 

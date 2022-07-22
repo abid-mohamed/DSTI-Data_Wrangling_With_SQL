@@ -1,5 +1,5 @@
 
-## Question 2:
+## Question 2 :
 For the CustomerId = 1060 (CustomerName = 'Anand Mudaliyar') <br />
 Identify the {rst InvoiceLine of his {rst Invoice, where "{rst" means the lowest respective IDs, and write an update query increasing the UnitPrice of this InvoiceLine by 20. <br />
 A re-run of the query in Q1 gives the resultset in Q2-Resultset_Corrected.csv (corrected on 15th April 2018 - Summed values in columns OrdersTotalValue & InvoicesTotalValue were incorrect) . 
