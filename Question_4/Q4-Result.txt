@@ -1,0 +1,12 @@
+﻿CustomerCategoryID CustomerCategoryName                               Highest_loss                            CustomerID  CustomerName
+------------------ -------------------------------------------------- --------------------------------------- ----------- ----------------------------------------------------------------------------------------------------
+3                  Novelty Shop                                       23579.50                                155         Tailspin Toys (Arbor Vitae, WI)
+4                  Supermarket                                        24093.60                                905         Sara Huiting
+5                  Computer Store                                     20084.00                                906         Ajitaab Pakalapati
+6                  Gift Store                                         16660.80                                1011        Rajeev Sandhu
+7                  Corporate                                          19506.60                                935         Daevasree Samavedam
+
+(5 rows affected)
+
+
+Completion time: 2020-11-01T12:19:27.3968131+03:00

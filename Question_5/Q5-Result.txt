@@ -1,0 +1,8 @@
+﻿CustomerId  CustomerName                                       sumOfAllPurchases
+----------- -------------------------------------------------- -----------------
+1           Sebastien                                          140
+
+(1 row affected)
+
+
+Completion time: 2020-11-01T12:31:17.9492096+03:00
