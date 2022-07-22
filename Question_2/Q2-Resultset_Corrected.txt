@@ -1,6 +1,6 @@
 ﻿CustomerID  CustomerName                                                                                         TotalNBOrders TotalNBInvoices OrdersTotalValue                        InvoicesTotalValue                      AbsoluteValueDifference
 ----------- ---------------------------------------------------------------------------------------------------- ------------- --------------- --------------------------------------- --------------------------------------- ---------------------------------------
-1060        Anand Mudaliyar                                                                                      4             4               7240.20                                 7240.20                                 0.00
+1060        Anand Mudaliyar                                                                                      4             4               7240.20                                 7280.20                                 40.00
 1059        Jibek Juniskyzy                                                                                      8             8               13208.10                                13208.10                                0.00
 1061        Agrita Abele                                                                                         9             9               22829.65                                22829.65                                0.00
 1056        Kalyani Benjaree                                                                                     13            13              44808.45                                44808.45                                0.00
@@ -667,4 +667,4 @@
 (663 rows affected)
 
 
-Completion time: 2020-11-01T14:17:55.9865366+03:00
+Completion time: 2020-11-01T14:22:26.9224451+03:00
